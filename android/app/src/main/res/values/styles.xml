@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.SpriteBrew" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:navigationBarColor">#14120F</item>
+        <item name="android:statusBarColor">#14120F</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:colorAccent">#F5B942</item>
+    </style>
+</resources>
